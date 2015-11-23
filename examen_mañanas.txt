@@ -1,0 +1,21 @@
+Los puntos evaluados en esta prueba corresponden a un ejemplo de aplicación de jQuery usando AJAX contra una API REST usando JSON.
+
+La API es una gestión básica de ficheros compartidos. La API que se va a usar la podéis descargar y en el propio zip está la documentación (web/api.html) explicando como usarla, los recursos y las funcionalidades. En el zip hay un ejemplo básico del HTML (web/file.html). Finalmente en el zip también hay el ejemplo de github visto en clase (web/github/). 
+
+¡Atención! La API debe ser usada a traves de la URL http://localhost:8080 Por tanto los ficheros HTML, JS y CSS deben estar en la carpeta web. Por ejemplo el fichero web/file.html se tiene que usar en el navegador con la URL http://localhost:8080/file.html
+
+La solución debe tener las funcionalidades siguientes, hechas con jQuery, con validación de parámetros y con tratamiento de errores:
+
+Consultar un fichero
+Consultar la lista de ficheros
+Consultar la lista de ficheros con paginación
+Borrar un fichero
+Crear un fichero
+Editar un fichero
+La entrega será un zip donde se muestren las características evaluables antes comentadas:
+
+Codigos: HTMLs, JSs y CSSs
+Readme
+Cambios/interpretaciones del enunciado
+Webs de documentación usadas
+Funcionalidades implementadas y como probarlas. 
